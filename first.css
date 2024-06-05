@@ -1,0 +1,39 @@
+h1 {
+    font-size: 24px;
+}
+
+.navbar {
+    background-color: rgb(49, 118, 174);
+    height: 60px;
+    padding: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    border-color: white;
+    border-radius: 5px;
+}
+.box ul {
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  .box li {
+    margin-bottom: 10px;
+  }
+.btn {
+    background: black;
+    padding: 10px 10px;
+    color: rgb(244, 252, 250);
+    border-radius: 200px;
+    font-weight: bold;
+    border-style: double;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.btn:hover{
+    transform: scale(1.1);
+}
+.block button{
+    align-items: center;
+    margin-top: 100px;
+}
