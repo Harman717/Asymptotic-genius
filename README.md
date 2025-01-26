@@ -1,6 +1,6 @@
 # Asymptotic Genius - Online Asymptotic Calculator and Plotter
 
-![image](https://github.com/user-attachments/assets/ea23207a-a3df-4fa9-8012-f6b8538d9c50)
+![image](https://github.com/user-attachments/assets/8e4087a1-2a79-4212-8ea8-9ed91cc893a0)
 
 
 Asymptotic Genius is a web application designed to help users understand and visualize asymptotic notation concepts. It allows users to input algebraic expressions and instantly see the growth rate of the function using different asymptotic symbols such as Big O, Big Omega, and Big Theta. The project is built using HTML, CSS, and JavaScript, making it accessible to anyone with an internet connection and a browser.
@@ -40,7 +40,7 @@ Asymptotic Genius is a web application designed to help users understand and vis
 4. **Error Handling**:
    - If an invalid expression is entered, an alert message will be displayed asking the user to enter a valid expression.
 
-![image](https://github.com/user-attachments/assets/7a4373ea-1bbe-49c9-800a-0d4ae21909f3)
+![image](https://github.com/user-attachments/assets/7fc5bf4a-439f-42c4-9299-e94ef5cafd09)
 
 ## Installation
 
