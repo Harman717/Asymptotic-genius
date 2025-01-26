@@ -1,14 +1,51 @@
-Our project on asymptotic notation uses HTML, CSS, and JavaScript to create a web
-application that helps users understand and visualize asymptotic notation concepts. The goal
-of this project is to provide an easy user interface that allows users to enter algebraic
-expressions and visualize the growth rate of a function using different asymptotic symbols such
-as Big O, Big Omega, Big Theta.
-To achieve this goal, we used our knowledge of algebraic expressions and algorithmic analysis
-to create a backend function that calculates the growth rate of the input function. The results
-are displayed in interactive graphs that visualize the growth rate using different asymptotic
-symbols.
-The aim of this project is to provide a suitable and intuitive tool for students and professionals
-who need to analyze and compare the efficiency of algorithms. Using HTML, CSS, and
-JavaScript, we aim to make our apps easily accessible to anyone with an internet connection
-and a browser. Our project is based on the mathematical concepts of asymptotic notation, and
-we hope to use this project to make these concepts available to a wider audience. 
+# Asymptotic Genius - Online Asymptotic Calculator and Plotter
+
+![image](https://github.com/user-attachments/assets/ea23207a-a3df-4fa9-8012-f6b8538d9c50)
+
+
+Asymptotic Genius is a web application designed to help users understand and visualize asymptotic notation concepts. It allows users to input algebraic expressions and instantly see the growth rate of the function using different asymptotic symbols such as Big O, Big Omega, and Big Theta. The project is built using HTML, CSS, and JavaScript, making it accessible to anyone with an internet connection and a browser.
+
+## Features
+
+- **User-Friendly Interface**: Easy-to-use interface for entering algebraic expressions and visualizing asymptotic notations.
+- **Interactive Graphs**: Visualize the growth rate of functions using interactive graphs.
+- **Multiple Asymptotic Notations**: Supports Big O, Big Omega, and Big Theta notations.
+- **Instant Results**: Get instant results with plots and calculated values for `c` and `n0`.
+- **Customization**: Adjust graph visualization settings and select different asymptotic symbols.
+- **Responsive Design**: Works seamlessly across different devices and screen sizes.
+
+## Technologies Used
+
+- **HTML**: For structuring the web page.
+- **CSS**: For styling and designing the user interface.
+- **JavaScript**: For backend processing and interactivity.
+- **Chart.js**: For creating interactive charts and graphs.
+- **Visual Studio Code**: The IDE used for development.
+
+## How to Use
+
+1. **Enter Algebraic Expression**:
+   - Use `n` as a parameter for your algebraic equation.
+   - Supported operators: `+`, `-`, `*`, `/`, and `^` for powers.
+   - Example: `3n^2 + 2n + 1`.
+
+2. **View Results**:
+   - After entering the expression, the website will display the asymptotic notation (Big O, Big Omega, or Big Theta) along with the graph.
+   - The values of `c` and `n0` will also be displayed.
+
+3. **Navigate Through Pages**:
+   - Use the navigation buttons to switch between Big O, Big Omega, and Big Theta plots.
+   - The "Home" button will take you back to the main page.
+
+4. **Error Handling**:
+   - If an invalid expression is entered, an alert message will be displayed asking the user to enter a valid expression.
+
+![image](https://github.com/user-attachments/assets/7a4373ea-1bbe-49c9-800a-0d4ae21909f3)
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/asymptotic-genius.git
